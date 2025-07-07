@@ -1,5 +1,5 @@
 ﻿// Home Work 35.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Created by Yevhen Danylchenko on 07.07.2025. Enum Classes and Aliases
 
 #include <iostream>
 #include <locale>

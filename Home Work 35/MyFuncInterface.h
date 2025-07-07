@@ -1,3 +1,6 @@
+// Created by Yevhen Danylchenko on 07.07.2025. Enum Classes and Aliases
+// Function Interface for Game Character Actions
+
 #pragma once
 
 #include <iostream>

@@ -1,3 +1,6 @@
+// Created by Yevhen Danylchenko on 07.07.2025. Enum Classes and Aliases
+// Class GameCharacter with State Management
+
 #pragma once
 
 #include <iostream>
